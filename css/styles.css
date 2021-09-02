@@ -133,10 +133,10 @@ a:active {
 
   .big-heading {
     /* font-weight: 300; */
-    font-size: 2rem;
+    font-size: 1.75rem;
   }
 
   .section-heading {
-    font-size: 1.75rem;
+    font-size: 1.2rem;
   }
 }
