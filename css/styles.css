@@ -125,3 +125,18 @@ a:active {
     font-size: 2rem;
   }
 }
+
+@media (max-width: 768px) {
+  /* #home {
+    padding-top: 14%;
+  } */
+
+  .big-heading {
+    /* font-weight: 300; */
+    font-size: 2rem;
+  }
+
+  .section-heading {
+    font-size: 1.75rem;
+  }
+}
